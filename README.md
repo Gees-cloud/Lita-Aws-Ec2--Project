@@ -6,3 +6,5 @@ configured security groups to manage inbound and outbound traffic
 setup to manage IP addresses for instance.
 ## Below is the image of my EC2 Instance details
 ![Ec2 detail](/Ec2.ping)
+## my test page detail
+http://52.90.162.112
